@@ -8,10 +8,7 @@ import org.springframework.http.ResponseEntity;
 import com.employee.service.EmployeeService;
 import java.util.List;
 import java.util.UUID;
-
-import com.employee.custom_exceptions.ResourceNotFoundException;
 import com.employee.entities.Employee;
-
 
 @RestController
 @RequestMapping("/employees")
