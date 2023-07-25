@@ -1,11 +1,3 @@
-I have used MySQL Relational Database.
-I don't know anything about NoSQL (mongoDB, CouchDB). They store data in form of JSON like objects.
-
-1. Extract
-2. Open eclipse or STS
-3. Open existing maven project
-4. After database setup "update maven project" -- Alt + F5 
-
 ----------------------------------------- How to Set up Database :----------------------------------------
 1. Create a new Database: employees
 2. Open application.properties file which is present in src/main/resource/application.properties.
